@@ -7,6 +7,16 @@ Provides theme files for use with Bootstrap less
 ```
 bower install git://github.com/scotch/bootstrap-less-themes.git
 ```
+or add as a dependency in your `component.json` file:
+```json
+{
+   ...
+   "dependencies": {
+      ...
+      "bootstrap-less-themes": "git://github.com/scotch/bootstrap-less-themes.git",
+   }
+}
+```
 
 ## Example usage
 
