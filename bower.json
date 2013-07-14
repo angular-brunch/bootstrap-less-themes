@@ -2,9 +2,6 @@
   "name": "bootstrap-less-themes",
   "version": "0.2.1",
   "main": "main.less",
-  "ignore": [
-    "*"
-  ],
   "dependencies": {},
   "description": "Provides a collection of LESS variables and overrides for customizing Bootstrap",
   "repository": {
